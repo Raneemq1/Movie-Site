@@ -1,4 +1,4 @@
-#### Please access the website by following the provided link https://chimerical-valkyrie-d5382a.netlify.app/ 
+#### Please access the website by following the provided link https://calm-pudding-cd7285.netlify.app/
 
 # Getting Started with Create React App
 
